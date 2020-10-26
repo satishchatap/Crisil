@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe",
+
+  "python.testing.pytestArgs": [ "-v", "-s", ".", "-p", "*test*.py" ],
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\Scripts\\pytest.exe"
+}
+
